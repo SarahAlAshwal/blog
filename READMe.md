@@ -14,9 +14,9 @@ Blog is a simple application that lets users create, edit and delete blogs using
 
 ## Final Product
 
-!["A sreenshot for the creating a new short URL"](https://github.com/SarahAlAshwal/tinyapp/blob/master/Docs/CreateNewURL.png)
-!["A screenshot for editing the longURl for one of the short URLs"](https://github.com/SarahAlAshwal/tinyapp/blob/master/Docs/EditUrl.png)
-!["A screenshot for editing the longURl for one of the short URLs"](https://github.com/SarahAlAshwal/tinyapp/blob/master/Docs/UrlsPage.png)
+!["A sreenshot for the creating a new article"](https://github.com/SarahAlAshwal/blog/blob/master/Docs/Screenshot%20from%202020-12-09%2010-34-20.png)
+!["A screenshot for showing one article"](https://github.com/SarahAlAshwal/blog/blob/master/Docs/Screenshot%20from%202020-12-09%2010-34-26.png)
+!["A screenshot for showing all articles"](https://github.com/SarahAlAshwal/blog/blob/master/Docs/Screenshot%20from%202020-12-09%2010-34-33.png)
 
 ## Getting Started
 
