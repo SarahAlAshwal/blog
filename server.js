@@ -20,4 +20,4 @@ app.get('/', async (req, res) => {
 })
 
 app.use('/articles', articleRouter);
-app.listen(8000);
+app.listen(3000);
